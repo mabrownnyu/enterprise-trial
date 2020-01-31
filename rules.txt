@@ -1,0 +1,8 @@
+('Donald Trump' OR #AnyoneButTrump2020 OR #MAGA OR #KAG OR #NeverTrump OR #PromisesKept OR #MakeAmericaGreatAgain OR #KeepAmericaGreat) sample:5|Donald Trump
+(“Elizabeth Warren' OR #TeamWarren OR #Warren2020) sample:5|Elizabeth Warren 
+('Pete Buttigieg' OR #Buttigieg2020 OR #TeamPete OR #MayorPete OR #Pete2020) sample:5|Pete Buttigieg
+('Joe Biden' OR #Biden2020) sample:5|Joe Biden 
+('Bernie Sanders' OR #Bernie2020 OR #IStandWithBernie OR #NotMeUs) sample:5|Bernie Sanders
+(#IowaCaucus OR #NHPrimary OR #SuperTuesday OR 'General Election' OR #2020Election OR #PresidentialElection OR 'Presidential election') sample:5|Primaries
+(#Democrats OR #Republicans OR #Resistance OR #BlueWave OR #BlueWave2020) sample:5|Party Keywords
+(@realDonaldTrump OR @TrumpWarRoom OR @GOP OR @DNC OR @TheDemocrats OR @DNCWarRoom OR @ewarren OR @PeteButtigieg OR @JoeBiden OR @BernieSanders) sample:5|Accounts
